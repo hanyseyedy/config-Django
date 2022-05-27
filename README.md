@@ -25,7 +25,7 @@ example: `django-admin startproject MyProject`
 run server: `./manage.py runserver` or `python3 manage.py runserver` <br >
 
 ## run some migrations like sqlite3:
-`./manage.py migrate`<br ><br ><br >
+`./manage.py migrate`<br >
 
 to stop server: `CONTROL-C`
 
